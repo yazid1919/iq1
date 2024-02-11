@@ -47,7 +47,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 # Pesan Awalan /start
 START_MSG = os.environ.get(
     "START_MESSAGE",
-    "<b>Hello {first}</b>\n\n<b>👇[𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥]👇\n https://telegra.ph/SITUS-COLLECTOR-01-06 \n\n ⬇️KOLEKSI VIDEO HOUSE FULL DISINI⬇️\nbosen dan capek klik banyak link/bot terus? nonton situs gratis kami yang sudah disediakan. gamau ribet dan langsung nonton JOIN VVIP aja\n\nterdapat ribuan video gratis terupdate dengan cara langganan VVIP : https://t.me/testihousefullmurah/202 \n minat join hubungi => @Triana12 \n\n SITUS NONTON GRATIS VIDEO VIRAL UPDATE⬇️\nhttps://s.id/NontonViral-Video-indoupdate \n\n LINK STREAMING BOCIL👇👇\n=>https://bit.ly/STREAMING-VIDEO-BOCIL\n\nDeveloped by:\n<a href='https://t.me/shopee_diskon_termurah'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a></b>",
+    "<b>Hello {first}</b>\n\n<b>👇[𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥]👇\n https://telegra.ph/SITUS-COLLECTOR-01-06 \n\n👇KOLEKSI VIDEO MEN AREA TERLENGKAP👇\n\nCapek mau nonton harus klik banyak link/bot?? Nonton disitus yang telah kami sediakan atau JOIN VVIP terlengkap kami\n\nNonton ribuan video langsung tanpa link lagi JOIN VVIP=> https://t.me/MEN_AREA/39 \nAtau bisa langsung hubungi=> @angel26\n\nKALIAN BISA NONTON GRATIS DISITUS YANG KAMI SEDIAKAN👇\n https://bit.ly/Nonton-video-viral-indo \n\nDownload video langsung👇👇\n=>https://s.id/LINK-VIDEO-LANGSUNG\n\nDeveloped by:\n<a href='https://t.me/+rBpnnmkBFIlmOTU1'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a></b>",
 )
 try:
     ADMINS = [int(x) for x in (os.environ.get("ADMINS", "").split())]
@@ -57,7 +57,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}\n\n👇[𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥]👇\n https://telegra.ph/SITUS-COLLECTOR-01-06 \n\n ⬇️KOLEKSI VIDEO HOUSE FULL DISINI⬇️\nbosen dan capek klik banyak link/bot terus? nonton situs gratis kami yang sudah disediakan. gamau ribet dan langsung nonton JOIN VVIP aja\n\nterdapat ribuan video gratis terupdate dengan cara langganan VVIP : https://t.me/testihousefullmurah/202 \n minat join hubungi => @Triana12 \n\n SITUS NONTON GRATIS VIDEO VIRAL UPDATE⬇️\nhttps://s.id/NontonViral-Video-indoupdate \n\n LINK STREAMING BOCIL👇👇\n=>https://bit.ly/STREAMING-VIDEO-BOCIL\n\nDeveloped by:\n<a href='https://t.me/shopee_diskon_termurah'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a>",
+    "<b>Hello {first}\n\n👇[𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥]👇\n https://telegra.ph/SITUS-COLLECTOR-01-06 \n\n👇KOLEKSI VIDEO MEN AREA TERLENGKAP👇\n\nCapek mau nonton harus klik banyak link/bot?? Nonton disitus yang telah kami sediakan atau JOIN VVIP terlengkap kami\n\nNonton ribuan video langsung tanpa link lagi JOIN VVIP=> https://t.me/MEN_AREA/39 \nAtau bisa langsung hubungi=> @angel26\n\nKALIAN BISA NONTON GRATIS DISITUS YANG KAMI SEDIAKAN👇\n https://bit.ly/Nonton-video-viral-indo \n\nDownload video langsung👇👇\n=>https://s.id/LINK-VIDEO-LANGSUNG\n\nDeveloped by:\n<a href='https://t.me/+rBpnnmkBFIlmOTU1'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a>",
 )
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
